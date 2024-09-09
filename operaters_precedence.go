@@ -22,5 +22,5 @@ import f "fmt"
 
 func main() {
 	n := 5*2 + 10/2 - 1
-	f.Println(n)
+	f.Println(n) // 14
 }
